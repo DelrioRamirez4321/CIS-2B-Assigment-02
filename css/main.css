@@ -10,3 +10,7 @@ body {
     display: inline;
     padding: 0 1.5em;
 }
+#copyright {
+    color: grey;
+    font-size: 14px;
+}
